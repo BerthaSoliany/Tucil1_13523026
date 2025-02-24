@@ -1,0 +1,5 @@
+Solusi 1.txt
+A B 
+A A 
+Waktu pencarian: 0ms
+Banyak kasus yang ditinjau: 3

@@ -1,0 +1,15 @@
+4 5 5
+DEFAULT
+AA
+BBB
+BBB
+C
+C
+CC
+D
+DDD1
+DD
+EE
+#
+3
+o

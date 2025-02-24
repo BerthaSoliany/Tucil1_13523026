@@ -1,0 +1,7 @@
+Solusi 2.txt
+A A D E E 
+B B D D D 
+B B D D C 
+B B C C C 
+Waktu pencarian: 0ms
+Banyak kasus yang ditinjau: 1253

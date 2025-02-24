@@ -1,0 +1,8 @@
+Solusi 6.txt
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+Waktu pencarian: 686ms
+Banyak kasus yang ditinjau: 6843072
