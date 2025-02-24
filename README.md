@@ -1,7 +1,5 @@
 # Tugas Kecil 1 Strategi Algoritma
 
-![puzzler](img\image.png)
-
 ## About Project
 Program ini adalah program untuk menyelesaikan IQ Puzzler Pro dengan menggunakan Algoritma Brute Force. Program dibuat dengan menggunakan bahasa Java dan menggunakan Object-Oriented Programming. Program menerima masukkan berupa file *.txt dan berinteraksi dengan CLI. Solusi dari program akan ditampilkan dengan setiap blok puzzlenya memiliki warna yang berbeda dan solusi dapat disimpan ke file.
 
