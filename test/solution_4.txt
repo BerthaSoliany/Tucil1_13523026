@@ -1,0 +1,6 @@
+Solusi 4.txt
+0 0 0 
+0 0 0 
+0 0 0 
+Waktu pencarian: 0ms
+Banyak kasus yang ditinjau: 1

@@ -1,0 +1,9 @@
+Solusi 7.txt
+F F F F D D 
+A A A F F D 
+A C A A I I 
+A A A H H H 
+B B B H G G 
+B B G G G G 
+Waktu pencarian: 427ms
+Banyak kasus yang ditinjau: 4216057
